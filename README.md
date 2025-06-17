@@ -75,5 +75,7 @@ This project was developed as part of a master's thesis in psychology.
 For questions or collaboration, please contact:
 
 Timothy E. Roberts
+
 Email: robertstimothy843@gmail.com
+
 Affiliation: University of Hull
