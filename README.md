@@ -17,6 +17,7 @@ Repository Structure
         │       ├── HorizontalAxis/
         │       └── VerticalAxis/
         ├── Manuscript/                 # Thesis drafts and related materials
+        └── README.md      ← this file
 
 Experiments
 Experiment 1 — Target Detection Task
