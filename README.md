@@ -4,19 +4,19 @@ This repository contains all experiment scripts, analysis code, and documentatio
 
 Repository Structure
 
-RespCycles_VisuoSpatialAttention/
-├── DataAnalysis/                # R scripts and outputs for analysis
-│   ├── Experiment1/
-│   └── Experiment2/
-├── EthicalApproval/            # Ethics documents
-├── ExperimentScripts/          # Main PsychoPy experiment code
-│   ├── Experiment1/
-│   │   ├── List1/
-│   │   └── List2/
-│   └── Experiment2/
-│       ├── HorizontalAxis/
-│       └── VerticalAxis/
-├── Manuscript/                 # Thesis drafts and related materials
+    RespCycles_VisuoSpatialAttention/
+        ├── DataAnalysis/                # R scripts and outputs for analysis
+        │   ├── Experiment1/
+        │   └── Experiment2/
+        ├── EthicalApproval/            # Ethics documents
+        ├── ExperimentScripts/          # Main PsychoPy experiment code
+        │   ├── Experiment1/
+        │   │   ├── List1/
+        │   │   └── List2/
+        │   └── Experiment2/
+        │       ├── HorizontalAxis/
+        │       └── VerticalAxis/
+        ├── Manuscript/                 # Thesis drafts and related materials
 
 Experiments
 Experiment 1 — Target Detection Task
