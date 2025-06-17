@@ -4,19 +4,19 @@ This repository contains all experiment scripts, analysis code, and documentatio
 
 Repository Structure
 
-RespCycles_VisuoSpatialAttention/
-├── DataAnalysis/                # R scripts and outputs for analysis
-│   ├── Experiment1/
-│   └── Experiment2/
-├── EthicalApproval/            # Ethics documents
-├── ExperimentScripts/          # Main PsychoPy experiment code
-│   ├── Experiment1/
-│   │   ├── List1/
-│   │   └── List2/
-│   └── Experiment2/
-│       ├── HorizontalAxis/
-│       └── VerticalAxis/
-├── Manuscript/                 # Thesis drafts and related materials
+    RespCycles_VisuoSpatialAttention/
+        ├── DataAnalysis/                # R scripts and outputs for analysis
+        │   ├── Experiment1/
+        │   └── Experiment2/
+        ├── EthicalApproval/            # Ethics documents
+        ├── ExperimentScripts/          # Main PsychoPy experiment code
+        │   ├── Experiment1/
+        │   │   ├── List1/
+        │   │   └── List2/
+        │   └── Experiment2/
+        │       ├── HorizontalAxis/
+        │       └── VerticalAxis/
+        ├── Manuscript/                 # Thesis drafts and related materials
 
 Experiments
 Experiment 1 — Target Detection Task
@@ -75,5 +75,7 @@ This project was developed as part of a master's thesis in psychology.
 For questions or collaboration, please contact:
 
 Timothy E. Roberts
+
 Email: robertstimothy843@gmail.com
+
 Affiliation: University of Hull
