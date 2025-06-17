@@ -1,4 +1,4 @@
-RespCycles_VisuoSpatialAttention
+# RespCycles_VisuoSpatialAttention
 
 This repository contains all experiment scripts, analysis code, and documentation for a research project investigating the influence of respiratory cycles on visuo-spatial attention. The core experiments were programmed in PsychoPy and include probe detection and Posner cueing tasks modulated by the breathing phase (inhalation vs. exhalation).
 
