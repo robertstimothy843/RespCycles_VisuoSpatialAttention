@@ -22,7 +22,7 @@ Repository Structure
 Experiments
 Experiment 1 — Target Detection Task
 
-    Design: Participants detect a brief visual target presented in the upper or lower visual field while respiratory phase is recorded.
+    Design: Participants detect a brief visual target presented in the horizontal and vertical visual fields measuring probe detection effects during inhale/exhale phases.
 
     Script locations:
 
@@ -34,7 +34,7 @@ Experiment 1 — Target Detection Task
 
 Experiment 2 — Exogenous Posner Cueing Task
 
-    Design: Involves exogenous cues followed by targets, measuring attentional orienting effects during inhale/exhale phases.
+    Design: Involves exogenous cues followed by targets, measuring attentional effects during inhale/exhale phases.
 
     Script locations:
 
