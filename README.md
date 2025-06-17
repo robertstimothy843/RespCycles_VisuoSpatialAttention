@@ -1,11 +1,11 @@
-RespCycles_VisuoSpatialAttention
+# RespCycles_VisuoSpatialAttention
 
 This repository contains all experiment scripts, analysis code, and documentation for a research project investigating the influence of respiratory cycles on visuo-spatial attention. The core experiments were programmed in PsychoPy and include probe detection and Posner cueing tasks modulated by the breathing phase (inhalation vs. exhalation).
 
 Repository Structure
 
     RespCycles_VisuoSpatialAttention/
-        ├── DataAnalysis/                # R scripts and outputs for analysis
+        ├── DataAnalysis/               # R scripts and outputs for analysis
         │   ├── Experiment1/
         │   └── Experiment2/
         ├── EthicalApproval/            # Ethics documents
@@ -17,11 +17,12 @@ Repository Structure
         │       ├── HorizontalAxis/
         │       └── VerticalAxis/
         ├── Manuscript/                 # Thesis drafts and related materials
+        └── README.md      ← this file
 
 Experiments
 Experiment 1 — Target Detection Task
 
-    Design: Participants detect a brief visual target presented in the upper or lower visual field while respiratory phase is recorded.
+    Design: Participants detect a brief visual target presented in the horizontal and vertical visual fields. This experiment is designed to measure probe detection during inhale/exhale phases.
 
     Script locations:
 
@@ -33,7 +34,7 @@ Experiment 1 — Target Detection Task
 
 Experiment 2 — Exogenous Posner Cueing Task
 
-    Design: Involves exogenous cues followed by targets, measuring attentional orienting effects during inhale/exhale phases.
+    Design: Involves exogenous cues followed by targets. This experiment is designed to measure exogenous attention during inhale/exhale phases.
 
     Script locations:
 
