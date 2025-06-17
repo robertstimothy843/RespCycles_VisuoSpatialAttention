@@ -5,7 +5,7 @@ This repository contains all experiment scripts, analysis code, and documentatio
 Repository Structure
 
     RespCycles_VisuoSpatialAttention/
-        ├── DataAnalysis/                # R scripts and outputs for analysis
+        ├── DataAnalysis/               # R scripts and outputs for analysis
         │   ├── Experiment1/
         │   └── Experiment2/
         ├── EthicalApproval/            # Ethics documents
